@@ -26,5 +26,14 @@ I am passionate about programming and have a particular interest in languages li
   </a>
 </div>
 
+<!-- Streal stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/FrancisMbagnia#gh-dark-mode-only">
+    <img
+       src="https://streak-stats.demolab.com/?user=FrancisMbagnia&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
 
 
